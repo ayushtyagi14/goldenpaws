@@ -48,7 +48,7 @@ const Gallery = ({ imgGallery }) => {
 
     return (
         <>
-            <div className="w-[80%] mx-auto mb-28 mt-6 leading-tight">
+            <div className=" px-4 lg:px-16 lg:max-w-7xl mx-auto">
                 <h1 className={`${platypi.className} lg:text-[54px] md:text-[42px] text-[36px] font-bold text-center`}>
                     Gallery
                 </h1>
