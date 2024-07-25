@@ -11,7 +11,7 @@ const Breeding = () => {
                 transition={{ duration: 0.8 }}
                 className="text-center flex flex-col items-center leading-[1.5] mb-10"
             >
-                <h1 className={`${platypi.className} lg:text-[54px] md:text-[42px] text-[24px] font-bold lg:w-[80%] mx-auto`}>
+                <h1 className={`${platypi.className} lg:text-[54px] md:text-[42px] text-[28px] font-bold lg:w-[80%] mx-auto`}>
                     Commitment to Excellence
                 </h1>
                 <h1 className={`${platypi.className} lg:text-[24px] md:text-[20px] text-[14px] lg:w-[80%] mx-auto text-gray-800`}>
@@ -25,10 +25,10 @@ const Breeding = () => {
                     transition={{ duration: 0.8 }}
                     className="lg:w-1/2 w-full text-lg text-gray-700 leading-relaxed"
                 >
-                    <p>
+                    <p className=' tracking-widest md:text-[15px] text-[14px]'>
                         At GoldenPaws, we are dedicated to maintaining the highest standards of health and welfare for our puppies. Our breeding practices are rooted in love, care, and a deep understanding of canine genetics.
                     </p>
-                    <ul className="space-y-4 mt-6">
+                    <ul className="space-y-4 mt-6 tracking-widest md:text-[15px] text-[14px]">
                         <li className="flex flex-row items-start">
                             <img src="/assets/paw.png" alt="Paw" width={28} className='mr-2 mt-3' />
                             <p className="text-gray-700 mt-2">
@@ -89,10 +89,10 @@ const Breeding = () => {
                     <img src="/assets/vet-checking-puppy.jpg" alt="Veterinarian Checking Puppy" className="rounded-lg shadow-lg object-cover w-full" />
                 </div>
                 <div className="lg:w-1/2 w-full text-lg text-gray-700 leading-relaxed">
-                    <p>
+                    <p className=' tracking-widest md:text-[15px] text-[14px]'>
                         Our commitment to excellence doesn&apos;t end with the puppies. We also ensure that our breeding dogs are well cared for and loved. Each dog undergoes regular health screenings and lives in a comfortable, loving environment.
                     </p>
-                    <p className="mt-6">
+                    <p className="mt-6 tracking-widest md:text-[15px] text-[14px]">
                         We believe that a happy, healthy environment is crucial for the development of our puppies. Our facilities are designed to provide ample space for play and socialization, helping our puppies grow into well-adjusted, happy dogs.
                     </p>
                 </div>

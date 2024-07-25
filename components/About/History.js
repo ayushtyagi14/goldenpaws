@@ -26,13 +26,13 @@ const History = () => {
                     transition={{ duration: 0.8 }}
                     className="lg:w-1/2 w-full text-lg text-gray-700 leading-relaxed"
                 >
-                    <p>
+                    <p className=' lg:text-[16px] text-[14px] tracking-widest'>
                         GoldenPaws started with a mission to provide loving families with healthy, happy puppies. Our founder, Jane Doe, has been passionate about dog breeding since childhood, and this passion shines through in every puppy we raise.
                     </p>
-                    <p className="mt-6">
+                    <p className="mt-6 lg:text-[16px] text-[14px] tracking-widest">
                         Our journey began over a decade ago, in a small town with a big dream. With a commitment to excellence and a love for animals, we have grown into a trusted name in puppy breeding. Every step of our journey has been guided by our core values of love, care, and quality.
                     </p>
-                    <p className="mt-6">
+                    <p className="mt-6 lg:text-[16px] text-[14px] tracking-widest">
                         At GoldenPaws, we believe in ethical breeding practices and prioritize the health and well-being of our puppies. We work closely with veterinarians and follow strict standards to ensure that every puppy is healthy, happy, and ready to join a loving home.
                     </p>
                 </motion.div>
@@ -59,10 +59,10 @@ const History = () => {
                     <img src="/assets/jane-doe.jpg" alt="Founder Jane Doe with Puppies" className="rounded-lg shadow-lg" />
                 </div>
                 <div className="lg:w-1/2 w-full text-lg text-gray-700 leading-relaxed">
-                    <p>
+                    <p className=' lg:text-[16px] text-[14px] tracking-widest'>
                         Jane Doe&apos;s love for dogs is evident in every aspect of GoldenPaws. From carefully selecting breeding pairs to providing top-notch care for our puppies, Jane ensures that GoldenPaws maintains its reputation for quality and integrity.
                     </p>
-                    <p className="mt-6">
+                    <p className="mt-6 lg:text-[16px] text-[14px] tracking-widest">
                         We are proud of our journey and excited for the future. Our commitment to our puppies and their new families drives us to continually improve and uphold the highest standards in breeding.
                     </p>
                 </div>

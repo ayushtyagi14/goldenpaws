@@ -53,7 +53,7 @@ const Testimonials = () => {
                         >
                             <img src={review.image} alt={review.name} className="w-24 h-24 rounded-full mb-4 object-cover" />
                             <h2 className="text-xl font-semibold mb-2 uppercase tracking-widest">{review.name}</h2>
-                            <p className="text-[#fdf3e9] font-light text-[14px]">{review.review}</p>
+                            <p className="text-[#fdf3e9] font-light text-[14px] tracking-widest">{review.review}</p>
                         </motion.div>
                     ))}
                 </div>

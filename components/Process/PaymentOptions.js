@@ -73,7 +73,7 @@ const PaymentOptions = () => {
                                     transition={{ duration: 0.1 }}
                                     className="overflow-hidden mt-2 px-5 py-3 bg-gray-50 rounded-lg"
                                 >
-                                    <p className="text-gray-700">{method.description}</p>
+                                    <p className="text-gray-700 tracking-widest md:text-[15px] text-[14px]">{method.description}</p>
                                 </motion.div>
                             )}
                         </div>

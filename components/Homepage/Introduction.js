@@ -35,10 +35,10 @@ const Introduction = () => {
                     className="flex flex-col gap-6 md:items-start md:text-left items-center text-center"
                 >
                     <h2 className={`${platypi.className} lg:text-[28px] text-[24px] font-semibold`}>Who We Are</h2>
-                    <p className="text-gray-700 lg:text-[16px] text-[14px]">
+                    <p className="text-gray-700 lg:text-[16px] text-[14px] tracking-widest">
                         At GoldenPaws, we specialize in raising healthy, happy puppies. Our dedicated team of experienced breeders and caregivers are committed to providing the best care possible for our puppies. We focus on ensuring that each puppy is well-socialized, healthy, and ready to join their new families.
                     </p>
-                    <p className="text-gray-700 lg:text-[16px] text-[14px]">
+                    <p className="text-gray-700 lg:text-[16px] text-[14px] tracking-widest">
                         Our state-of-the-art facilities and rigorous health protocols ensure that our puppies grow up in a safe and nurturing environment. We work closely with veterinarians to monitor the health and well-being of each puppy, from birth until they leave for their new homes.
                     </p>
                 </motion.div>
@@ -52,10 +52,10 @@ const Introduction = () => {
                     className="flex flex-col gap-6 md:items-start md:text-left items-center text-center"
                 >
                     <h2 className={`${platypi.className} lg:text-[28px] text-[24px] font-semibold`}>What Is Our Mission</h2>
-                    <p className="text-gray-700 lg:text-[16px] text-[14px]">
+                    <p className="text-gray-700 lg:text-[16px] text-[14px] tracking-widest">
                         Our mission at GoldenPaws is to connect loving families with healthy, well-adjusted puppies. We believe that every puppy deserves a happy home, and we strive to make that happen by maintaining high breeding standards and providing exceptional care for each puppy.
                     </p>
-                    <p className="text-gray-700 lg:text-[16px] text-[14px]">
+                    <p className="text-gray-700 lg:text-[16px] text-[14px] tracking-widest">
                         We are dedicated to promoting responsible pet ownership and educating our clients on the best practices for raising a puppy. From the moment you express interest in one of our puppies, we are here to support you every step of the way, ensuring a smooth and joyful transition for both you and your new furry friend.
                     </p>
                 </motion.div>

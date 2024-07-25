@@ -24,7 +24,7 @@ const BreederInformation = () => {
                         Our breeders are highly professional and experienced, ensuring that every puppy is raised with the utmost care. They hold numerous certifications that reflect their commitment to excellence.
                     </h1>
                 </motion.div>
-                <ul className="list-none space-y-8 w-full">
+                <ul className="list-none space-y-8 w-full tracking-widest md:text-[15px] text-[14px]">
                     <li className="flex flex-row items-start p-6 rounded-lg shadow-md transition duration-200">
                         <img src="/assets/breeder-certification.png" alt="Breeder Certification" width={48} className='mr-4' />
                         <div className="text-left">

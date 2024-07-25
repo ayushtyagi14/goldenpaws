@@ -24,7 +24,7 @@ const HealthGuarantee = () => {
                         We take the health of our puppies very seriously. Our health guarantee ensures that your new family member is in perfect health when they come home to you.
                     </h1>
                 </motion.div>
-                <ul className="list-none space-y-8 w-full">
+                <ul className="list-none space-y-8 w-full tracking-widest md:text-[15px] text-[14px]">
                     <li className="flex flex-row items-start bg-white p-6 rounded-lg shadow hover:bg-gray-100 transition duration-200">
                         <img src="/assets/health-check-icon.png" alt="Health Checks" width={48} className='mr-4' />
                         <div className="text-left">

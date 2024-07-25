@@ -47,17 +47,17 @@ const Filter = () => {
                             </div>
 
                             {/* Gender Filter */}
-                            <div>
+                            {/* <div>
                                 <label className="block text-lg">Gender</label>
                                 <select className="w-full px-4 py-2 border rounded-lg mt-2 uppercase tracking-widest text-[14px] bg-[#333333] text-[#fdf3e9]">
                                     <option value="">Select Gender</option>
                                     <option value="male">Male</option>
                                     <option value="female">Female</option>
                                 </select>
-                            </div>
+                            </div> */}
 
                             {/* Age Filter */}
-                            <div>
+                            {/* <div>
                                 <label className="block text-lg">Age</label>
                                 <select className="w-full px-4 py-2 border rounded-lg mt-2 uppercase tracking-widest text-[14px] bg-[#333333] text-[#fdf3e9]">
                                     <option value="">Select Age</option>
@@ -65,7 +65,7 @@ const Filter = () => {
                                     <option value="adult">Adult</option>
                                     <option value="senior">Senior</option>
                                 </select>
-                            </div>
+                            </div> */}
 
                             {/* Type of Dog Filter */}
                             <div>
@@ -81,7 +81,7 @@ const Filter = () => {
                             </div>
 
                             {/* Breed Filter */}
-                            <div>
+                            {/* <div>
                                 <label className="block text-lg">Breed</label>
                                 <select className="w-full px-4 py-2 border rounded-lg mt-2 uppercase tracking-widest text-[14px] bg-[#333333] text-[#fdf3e9]">
                                     <option value="">Select Breed</option>
@@ -91,7 +91,7 @@ const Filter = () => {
                                     <option value="beagle">Beagle</option>
                                     <option value="husky">Siberian Husky</option>
                                 </select>
-                            </div>
+                            </div> */}
                         </div>
                         <button
                             onClick={togglePopup}

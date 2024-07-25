@@ -24,7 +24,7 @@ const StepsToAdopt = () => {
                         Bringing a new puppy into your home is an exciting journey. Follow these simple steps to make the adoption process smooth and joyful:
                     </h1>
                 </motion.div>
-                <ul className="list-none space-y-8">
+                <ul className="list-none space-y-8 tracking-widest md:text-[15px] text-[14px]">
                     <li className="flex flex-row items-start">
                         <img src="/assets/paw.png" alt="Paw" width={28} className='mr-2' />
                         <div className="text-left">
